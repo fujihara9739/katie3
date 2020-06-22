@@ -1,8 +1,9 @@
 body{
-width:1000px
+width:1000px;
+background-color: #fafad2
 }
 header{
-  background-color:#008080;
+  background-color:#008080
   color:white;
   hight:200px;
 }
@@ -10,4 +11,12 @@ header{
 .header-right headerleft{
   display: inline-block;
   float:left;
+}
+
+.profile-pic profile-comment{
+  display: inline-block;
+}
+
+.profile-container{
+ margin:0 auto;
 }
