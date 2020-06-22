@@ -1,4 +1,13 @@
 body{
 width:1000px
 }
+header{
+  background-color:#008080;
+  color:white;
+  hight:200px;
+}
 
+.header-right headerleft{
+  display: inline-block;
+  float:left;
+}
