@@ -8,7 +8,7 @@ header{
   hight:200px;
 }
 
-.header-right,headerleft{
+.header-right h1,headerleft h1{
   display: inline-block;
 }
 
